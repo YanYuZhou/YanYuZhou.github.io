@@ -1518,7 +1518,7 @@ pre .javascript .function {
   margin: 0 0.5em;
 }
 .post-meta-item-icon {
-  margin-right: 3px;
+  margin-right: 13px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .post-meta-item-icon {
@@ -1833,7 +1833,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #04cdd9;
+  background: #ccffc4;
 }
 .links-of-blogroll {
   font-size: 13px;
