@@ -1454,7 +1454,7 @@ pre .javascript .function {
   display: none;
 }
 .posts-expand .post-title {
-  text-align: left;
+  text-align: center;
   word-break: break-word;
   font-weight: 400;
 }
@@ -1518,7 +1518,7 @@ pre .javascript .function {
   margin: 0 0.5em;
 }
 .post-meta-item-icon {
-  margin-right: 13px;
+  margin-right: 3px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .post-meta-item-icon {
@@ -1833,7 +1833,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ccffc4;
+  background: #7a5dff;
 }
 .links-of-blogroll {
   font-size: 13px;
