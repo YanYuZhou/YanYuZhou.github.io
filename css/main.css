@@ -1531,7 +1531,7 @@ pre .javascript .function {
   }
 }
 .post-meta-item-text {
-  text-align: left;
+  position: left;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .post-meta-item-text {
@@ -1836,7 +1836,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3effb3;
+  background: #ffc8eb;
 }
 .links-of-blogroll {
   font-size: 13px;
